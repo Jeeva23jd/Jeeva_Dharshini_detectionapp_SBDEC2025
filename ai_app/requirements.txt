@@ -1,0 +1,12 @@
+streamlit
+plotly
+reportlab
+streamlit-option-menu
+ultralytics
+opencv-python
+torch
+torchvision
+pillow
+numpy
+pandas
+matplotlib
