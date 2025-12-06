@@ -65,7 +65,7 @@ A comprehensive Streamlit web application for detecting and analyzing heritage s
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd /home/surendra208/Documents/jaya/aimoodmate/ai_app
+   cd J:\projects\infosys_virtual\ai_app
    ```
 
 2. **Install dependencies:**
@@ -76,7 +76,7 @@ A comprehensive Streamlit web application for detecting and analyzing heritage s
 3. **Verify model file:**
    Ensure the YOLOv11 model weights are present at:
    ```
-   /home/surendra208/Documents/jaya/aimoodmate/ai_app/best.pt
+   "J:\projects\infosys_virtual\ai_app\best.pt"
    ```
 
 ## 🎯 Usage
